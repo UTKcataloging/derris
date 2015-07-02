@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"
+      version="3.5">
+   <identifier type="local">0012_000603_000303_0001</identifier>
+   <identifier type="local">derris_671</identifier>
+   <identifier type="local">derris:671</identifier>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/no2014027636">
+      <namePart>Derris, William</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Fontana Dam</title>
+   </titleInfo>
+   <typeOfResource>still image</typeOfResource>
+   <originInfo>
+      <dateCreated>1956-06-12</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1956-06-12</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300127478">transparencies</form>
+      <digitalOrigin>digitized other analog</digitalOrigin>
+      <note>Film type: Kodachrome Transparency</note>
+   </physicalDescription>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">zxx</languageTerm>
+   </language>
+   <note>Transcribed from slide mount: Fontana Dam; Taken for me by Mr &amp; Mrs Dyral [sp.] Garrison</note>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+      <url access="object in context" usage="primary">http://digital.lib.utk.edu/collections/islandora/object/derris%3A671</url>
+      <url access="preview">http://digital.lib.utk.edu/collections/islandora/object/derris%3A671/datastream/TN/view/Fontana%20Dam.jpg</url>
+   </location>
+   <subject>
+      <geographic>Fontana Dam (N.C.)</geographic>
+      <cartographics>
+         <coordinates>35.45342, -83.8049</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="lcsh" valueURI="">Appalachian Trail</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>William Derris Collection</title>
+      </titleInfo>
+      <location>
+         <url>http://digital.lib.utk.edu/collections/derriscollection</url>
+      </location>
+      <abstract>William Derris, avid amateur photographer, videographer, and proprietor of the Derris Motel in Townsend, Tennessee, crisscrossed the Great Smoky Mountains by automobile, photographing and filming the iconic locales. His images document seasonal landscapes, flora, wildlife, and the mountain people in Cades Cove, Wears Valley, Clingmans Dome, Little Greenbrier, Fontana, Chimney Tops and other scenery in the Smokies from the mid-1940s to the late 1960s. Using these images, Derris created slide shows for the entertainment of his motel’s numerous guests...</abstract>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>William Derris Slide Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.2123</identifier>
+   </relatedItem>
+   <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0012_000603_000303_0001</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Libraries</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>
