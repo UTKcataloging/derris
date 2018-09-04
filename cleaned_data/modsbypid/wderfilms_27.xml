@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+    <titleInfo>
+        <title>Laurel Falls</title>
+    </titleInfo>
+    <name>
+        <namePart>William Derris</namePart>
+        <role>
+            <roleTerm type="text"
+                authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/vdg">Videographer</roleTerm>
+        </role>
+    </name>
+    <subject>
+        <topic>Fall foliage</topic>
+    </subject>
+    <subject><topic>Waterfalls</topic></subject>
+    <note>Musical accompaniment is traditional folk song “The Girl I Left Behind,” recorded January 2015. The running time is 1 minute, 10 seconds.</note>
+    <name>
+        <namePart>Chris Durman</namePart>
+        <role>
+            <roleTerm type="text"
+                authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
+        </role>
+    </name>
+    <name>
+        <namePart>Leslie Gengozian</namePart>
+        <role>
+            <roleTerm type="text"
+                authority="marcrelator"
+                valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
+        </role>
+    </name>
+    <originInfo>
+        <dateCreated>1949</dateCreated>
+    </originInfo>
+    <identifier>wderfilms:27</identifier>
+    <location>
+        <physicalLocation>The University of Tennessee Libraries, Special Collections, Knoxville</physicalLocation>
+    </location>
+    <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+    <relatedItem displayLabel="Project" type="host">
+        <titleInfo>
+            <title>The William Derris Slide Collection</title>
+        </titleInfo>
+    </relatedItem>
+    <relatedItem displayLabel="Collection" type="host">
+        <titleInfo>
+            <title>William Derris Slide Collection</title>
+        </titleInfo>
+        <identifier>MS.2123</identifier>
+    </relatedItem>
+    <typeOfResource>moving image</typeOfResource>
+    <subject><geographic>Laurel Falls, Tennessee</geographic></subject>
+</mods>
+
