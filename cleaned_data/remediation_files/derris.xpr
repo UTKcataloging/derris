@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project version="16.1">
+<project version="19.1">
     <meta>
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options/>
     </meta>
     <projectTree name="derris.xpr">
+        <folder path="../modsbypid/"/>
         <folder path="../modsxml/"/>
+        <folder path="output/"/>
     </projectTree>
 </project>
