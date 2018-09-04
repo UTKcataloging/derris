@@ -1,69 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mods xmlns="http://www.loc.gov/mods/v3"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xmlns:xlink="http://www.w3.org/1999/xlink"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema"
-    xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
-    <titleInfo>
-        <title>Clingmans Dome</title>
-    </titleInfo>
-    <name>
-        <namePart>William Derris</namePart>
-        <role>
-            <roleTerm type="text"
-                authority="marcrelator"
-                valueURI="http://id.loc.gov/vocabulary/relators/vdg">Videographer</roleTerm>
-        </role>
-    </name>
-    <subject>
-        <topic>Observation towers</topic>
-    </subject>
-    <subject><topic>Frost</topic></subject>
-    <note>Musical accompaniment is traditional folk song “Sitting on Top of the World,” recorded January 2015. The running time is 2 minutes, 14 seconds.</note>
-    <name>
-        <namePart>Chris Durman</namePart>
-        <role>
-            <roleTerm type="text"
-                authority="marcrelator"
-                valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
-        </role>
-    </name>
-    <name>
-        <namePart>Leslie Gengozian</namePart>
-        <role>
-            <roleTerm type="text"
-                authority="marcrelator"
-                valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
-        </role>
-    </name>
-    <name>
-        <namePart>Steve White</namePart>
-        <role>
-            <roleTerm type="text"
-                authority="marcrelator"
-                valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
-        </role>
-    </name>
-    <originInfo>
-        <dateCreated>1941-12</dateCreated>
-    </originInfo>
-    <identifier>wderfilms:22</identifier>
-    <location>
-        <physicalLocation>The University of Tennessee Libraries, Special Collections, Knoxville</physicalLocation>
-    </location>
-    <accessCondition>The copyright interests in this collection remain with the creator. For more information, contact Special Collections at special@utk.edu.</accessCondition>
-    <relatedItem displayLabel="Project" type="host">
-        <titleInfo>
-            <title>The William Derris Slide Collection</title>
-        </titleInfo>
-    </relatedItem>
-    <relatedItem displayLabel="Collection" type="host">
-        <titleInfo>
-            <title>William Derris Slide Collection</title>
-        </titleInfo>
-        <identifier>MS.2123</identifier>
-    </relatedItem>
-    <typeOfResource>moving image</typeOfResource>
-    <subject><geographic>Clingmans Dome</geographic></subject>
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <titleInfo>
+      <title>Clingmans Dome</title>
+   </titleInfo>
+   <name>
+      <namePart>William Derris</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/vdg">Videographer</roleTerm>
+      </role>
+   </name>
+   <subject>
+      <topic>Observation towers</topic>
+   </subject>
+   <subject>
+      <topic>Frost</topic>
+   </subject>
+   <note>Musical accompaniment is traditional folk song “Sitting on Top of the World,” recorded January 2015. The running time is 2 minutes, 14 seconds.</note>
+   <name>
+      <namePart>Chris Durman</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Leslie Gengozian</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
+      </role>
+   </name>
+   <name>
+      <namePart>Steve White</namePart>
+      <role>
+         <roleTerm type="text"
+                   authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/itr">Instrumentalist</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1941-12</dateCreated>
+   </originInfo>
+   <identifier>wderfilms:22</identifier>
+   <location>
+      <physicalLocation>The University of Tennessee Libraries, Special Collections, Knoxville</physicalLocation>
+   </location>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>The William Derris Slide Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem displayLabel="Collection" type="host">
+      <titleInfo>
+         <title>William Derris Slide Collection</title>
+      </titleInfo>
+      <identifier>MS.2123</identifier>
+   </relatedItem>
+   <typeOfResource>moving image</typeOfResource>
+   <subject>
+      <geographic>Clingmans Dome</geographic>
+   </subject>
 </mods>
-
