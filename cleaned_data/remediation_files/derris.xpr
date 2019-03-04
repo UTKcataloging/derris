@@ -7,6 +7,7 @@
     <projectTree name="derris.xpr">
         <folder path="../modsbypid/"/>
         <folder path="../modsxml/"/>
+        <folder path="."/>
         <folder path="output/"/>
     </projectTree>
 </project>
